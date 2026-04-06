@@ -20,13 +20,20 @@
 ---
 
 ## 🛠️ Tech Stack
+
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,mysql,pytorch,tensorflow,sklearn" />
+<img src="https://skillicons.dev/icons?i=python,mysql,pytorch,tensorflow,sklearn,html" />
 </p>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=pandas" height="45"/>
-<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="45"/>
+<img src="https://img.shields.io/badge/Linear%20Regression-00C896?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Logistic%20Regression-00C896?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Decision%20Tree-00C896?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Random%20Forest-00C896?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/KNN-00C896?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/K--Means-00C896?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Naive%20Bayes-00C896?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SVM-00C896?style=for-the-badge"/>
 </p>
 
 ---
