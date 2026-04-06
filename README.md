@@ -1,43 +1,65 @@
-<h1 align="center">Hey there 👋, I'm Blessy</h1>
-<h3 align="center">🌿 AI Explorer | 🤖 ML Enthusiast | 📊 Data Science Learner</h3>
+<!-- HEADER BANNER -->
+<h1 align="center">🌿 Hey, I'm Blessy 👋</h1>
+<h3 align="center">🤖 AI Engineer in Progress | 🌾 Tech for Agriculture | 📊 Data Science Enthusiast</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00C896&center=true&vCenter=true&lines=Aspiring+AI+Engineer;Building+Smart+Solutions;Crop+Disease+Detection+Project;Always+Learning+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Turning+Ideas+into+AI+Solutions;Building+Crop+Disease+Detection+🌿;Learning+ML+Everyday+📚;Future+AI+Engineer+🚀" />
 </p>
 
 ---
 
-## 🌱 About Me
-💡 Passionate about applying AI to solve real-world problems  
-🌾 Currently working on **Crop Disease Detection**  
-📚 Constantly learning and growing in AI & Data Science  
+## 🌟 About Me
+<img align="right" width="250" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif"/>
+
+- 🌱 Working on **Crop Disease Detection using AI**
+- 🤖 Exploring **Machine Learning & Deep Learning**
+- 📊 Love working with **data & real-world problems**
+- 🌿 Interested in **AI for Agriculture**
+- 🚀 Goal: Become a skilled AI Engineer
 
 ---
 
-## 🚀 Skills & Learning Journey
+## 🛠️ Tech Stack
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,mysql,pytorch,tensorflow,sklearn" />
 </p>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=pandas" height="40"/>
-<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="40"/>
+<img src="https://skillicons.dev/icons?i=pandas" height="45"/>
+<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="45"/>
 </p>
 
 ---
 
-## 🧠 What I Work With
-- 🤖 Machine Learning  
-- 🧠 Artificial Intelligence  
-- 📊 Data Analysis  
-- 🌿 AI in Agriculture  
+## 🚀 Featured Project
+🌾 **Crop Disease Detection System**  
+> Using Machine Learning to identify plant diseases and help farmers take early action.
 
 ---
 
-## 📫 Let's Connect
+## 📊 GitHub Insights
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true" height="150"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true" height="150"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true"/>
+</p>
+
+---
+
+## 🏆 Achievements (Future Ready 😎)
+- 🌱 Building real-world AI projects  
+- 📚 Continuously learning ML & Data Science  
+- 🚀 Growing GitHub portfolio  
+
+---
+
+## 🌐 Connect With Me
 <p align="center">
 <a href="mailto:blzyblzy5@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/blessy-t-b-243584346">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -46,13 +68,15 @@
 
 ---
 
-## 📊 GitHub Stats
+## 💡 Quote I Believe In
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="150"/>
+<i>"AI is not the future, it's the present — and I'm building it."</i>
 </p>
 
 ---
 
-## ⚡ Fun Fact
-🌟 I love combining **technology + nature** to create impactful AI solutions!
+## ⚡ Fun Zone
+<p align="center">
+🌿 + 🤖 = ❤️ <br>
+Turning nature into intelligence!
+</p>
